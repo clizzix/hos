@@ -175,7 +175,7 @@ header ul li a:hover {
     background-color: #ffca28;
     font-weight: bold;
     border-radius: 8px;
-    padding: 10px;
+    padding: 10px 20px;
     align-self: flex-end;
 }
 
